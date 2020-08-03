@@ -8,7 +8,7 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 # Torrent To Google Drive Downloader
 Simple notebook to stream torrent files to Google Drive using Google Colab.
 
-<a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/mrbvrz/torrent-to-google-drive-downloader/blob/master/torrent-to-google-drive-downloader.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
 Click the badge which says 'Open in Colab' and follow directions there.
